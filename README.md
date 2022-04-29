@@ -5,3 +5,5 @@ This is a comment from Daniel.
 This is a comment from Greg.
 
 This is a comment from Zaire.
+
+This is a comment from Zaire the Tester.
