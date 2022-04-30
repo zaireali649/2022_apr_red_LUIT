@@ -2,6 +2,8 @@
 
 This is a comment from Daniel.
 
+I wanted to contribute as well! 
+
 This is a comment from Greg.
 
 This is a comment from Zaire.
